@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  transition: all 0.2s linear;
+  margin: 0;
+}
+
+html,
+body,
+#root,
+.container {
+  height: 100%;
+  width: 100%;
+}
+
+.btn {
+  border-style: none;
+}
